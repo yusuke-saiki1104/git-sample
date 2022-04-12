@@ -1,5 +1,3 @@
 # README
 * 説明です。
-aaaaaaaa
-ddddd
-a
+https://be.tech-boost.jp/common/books/218?curriculum=35
